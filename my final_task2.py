@@ -6,7 +6,7 @@
 
 APM: 
 besiar awli 
-
+daryaft shod
 '''
 
 class Device:
